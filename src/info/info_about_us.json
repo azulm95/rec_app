@@ -1,0 +1,58 @@
+{ "quienessomos": {
+    "title":"¿Quiénes Somos?",
+    "colortitle":"green",
+    "paragraphs":["La iglesia renaciendo en Cristo es una iglesia cristiana evangélica independiente. Nuestra vertiente doctrinal se fundamenta en la verdad de la escritura, y no proviene de ninguna doctrina denominacional."
+    ,"El nombre de nuestra iglesia surge del mandato del Señor Jesucristo a nacer de nuevo. Sin el nuevo nacimiento sería imposible para cualquier persona ser salva y vivir como Dios quiere que vivamos. Nuestro lema, 'Viviendo por la Palabra' resalta que el único medio de vida y crecimiento que tendremos como comunidad será la Palabra de Dios."], 
+    "subtitles":["Nuestro nombre y lema:"],
+    "colorsubtitle":"yellow"
+},
+"como somos":{
+    "title":"¿Como Somos?",
+    "colortitle":"green",
+    "subtitles":["Gobierno de la iglesia:","Economia de la iglesia:"],
+    "colorsubtitle":"yellow",
+    "paragraphs":["La estructura de gobierno de la congregación, se adoptó del modelo bíblico, lo que significa que la congregación será liderada y dirigida por el Espíritu Santo y una pluralidad de ancianos (Lideres con llamado divino, maduros, formados y capacitados)",
+   "En cuanto a este modelo de gobierno también es necesario agregar que, tanto diáconos como la congregación en general tienen una voz participativa en los diferentes acontecimientos y procesos de la i 1h 1:24; 4:31; 5:4; 6:3)",
+    "Siguiendo el modelo neo-testamentario, la iglesia REC económicamente se sostiene de las ofrendas voluntarias de la congregación, llámese ofrenda, diezmo o donación, siempre y cuando se haga con un conocimiento de la palabra."]
+},
+"que predicamos": {
+    "title":"¿Que predicamos?",
+    "colortitle":"green",
+    "subtitles":[],
+    "colorsubtitle":"",
+    "paragraphs":["Como iglesia reconocemos que 'Toda la escritura es inspirada por Dios' (2 Tim 3:16-17) y como tal, es infalible y poderosa para salvar y transformar al creyente; pero fue dada en un contexto, una época y a unas personas especificas con un propósito definido.",
+    "Por lo tanto es nuestro compromiso llevar esta verdad transformadora al pueblo de Dios hoy, de la manera más fidedigna posible por medio de la predicación expositiva, versículo a versículo"]
+},
+"que creemos": {
+    "title":"¿Que creemos?",
+    "colortitle":"green",
+    "subtitles":[],
+    "colorsubtitle":"",
+    "paragraphs":["Creemos que la biblia constituye la única forma infalible de fe y practica del cristiano (Salvación, conducta y moral) Mt 5:18, 24:35; In 10:35: 162-13 1717 ) Có 213, 2 Tìm 315.17, Heb 4:12",
+    "Creemos en un solo Dios verdadero conformado por tres personas, Padre, Hijo y Espiritu Santo (Mt 3:16-17; 28:19; 2 Co 13:14)"]
+},
+"mision": {
+    "title":"Misión:",
+    "colortitle":"green",
+    "subtitles":[],
+    "colorsubtitle":"",
+    "paragraphs":["Sin duda, nuestra misión seguira sle misión que Cristo nos encomendó 'Id y haced discípulos' (Mt 28:18-20).",
+    "Somos conscientes que un verdadero discípulo solo se forma con la sana doctrina de la Palabra de Dios, este es el llamado que se nos ha hecho y será nuestro compromiso (Hch 2:44-47; 4:32-35; 20:27; 2 Tim 3:16-17)"]
+},
+"vision": {
+    "title":"Visión:",
+    "colortitle":"green",
+    "subtitles":[],
+    "colorsubtitle":"",
+    "paragraphs":["Formar una autentica comunidad cristiana según el mandato de Jesús y conforme al modelo que se nos ordena en la escritura, compartiendo solo la verdad bíblica sin omitir nada de ella."]
+},
+"valores": {
+    "title":"Valores:",
+    "colortitle":"green",
+    "subtitles":[],
+    "colorsubtitle":"",
+    "paragraphs":["Como iglesia bíblica, nuestros valores reflejan y a la vez apuntan a la misión y la vision:","Fidelidad a la Palabra.","Reverencia y temor a Dios.",
+    "Santidad y piedad.","Buena conducta y disciplina.","Amor, compasión y respeto por los demás.","Fraternidad.","Testificar de Cristo."]
+}
+
+}

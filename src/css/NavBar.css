@@ -1,0 +1,10 @@
+.turquesa{
+    background-color: #0A7B9A;
+    color: aliceblue;
+}
+
+
+.itemselect:hover{
+    background-color: #0A7B9A !important; 
+    color: aliceblue !important;
+}
